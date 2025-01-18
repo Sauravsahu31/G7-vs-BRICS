@@ -547,17 +547,5 @@ def update_comparison_graph(country1, country2, selected_parameter, selected_yea
 
 
 if __name__ == '__main__':
-    app.run_server(host='0.0.0.0', port=int(os.environ.get('PORT', 8080)))
-
-
-# In[3]:
-
-
-get_ipython().system('jupyter nbconvert --to script chk.ipynb')
-
-
-# In[ ]:
-
-
-
+    app.run_server(debug=True)
 
