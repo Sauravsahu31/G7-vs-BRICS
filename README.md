@@ -1,4 +1,5 @@
-# G7 VS BRICES :2030 Economic Data Analysis Dashboard
+# G7 VS BRICS :2030 
+Economic Data Analysis Dashboard
 
 ## Overview
 
