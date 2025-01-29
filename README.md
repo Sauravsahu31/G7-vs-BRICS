@@ -52,7 +52,7 @@ pip install -r requirements.txt
 Run the dashboard: python app.py
 Access the dashboard: Open your web browser and go to http://127.0.0.1:8050/ to view the dashboard.
 
-**Usage**
+** Usage**
 Predicted GDP Growth (2023-2030): The dashboard displays the predicted GDP growth for both G7 and BRICS countries from 2023 to 2030.
 
 Average Comparative Analysis: Compare the average values of different economic parameters between G7 and BRICS countries over a selected time range.
