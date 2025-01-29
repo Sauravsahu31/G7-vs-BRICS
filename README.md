@@ -46,20 +46,20 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/economic-data-analysis.git
    cd economic-data-analysis
-2. Install the required dependencies:
+2. **Install the required dependencies:**
 
 pip install -r requirements.txt
 Run the dashboard: python app.py
 Access the dashboard: Open your web browser and go to http://127.0.0.1:8050/ to view the dashboard.
 
-#Usage
+**Usage**
 Predicted GDP Growth (2023-2030): The dashboard displays the predicted GDP growth for both G7 and BRICS countries from 2023 to 2030.
 
 Average Comparative Analysis: Compare the average values of different economic parameters between G7 and BRICS countries over a selected time range.
 
 Country Comparison: Compare specific economic parameters between two selected countries over a selected time range.
 
-##Results
+**Results**
 
 Best Model for G7: SVR
 
@@ -71,15 +71,15 @@ G7: Predicted to grow at an average rate of around 4.7% to 4.8%.
 
 BRICS: Predicted to grow at an average rate of around 6.5% to 6.8%.
 
-#Contributing
+**Contributing**
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
-#License
+**License**
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Acknowledgments
+**Acknowledgments**
 
 Data sourced from the World Bank.
 
