@@ -29,5 +29,4 @@ This project analyzes historical economic data (1972–2022) and forecasts GDP g
 ## Conclusion
 This project demonstrates the transformative potential of data science in economics, providing a replicable framework for forecasting and policy analysis.
 
-## License
-[MIT License](LICENSE)
+
