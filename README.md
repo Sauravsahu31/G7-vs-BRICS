@@ -19,12 +19,23 @@ This project analyzes historical economic data (1972–2022) and forecasts GDP g
 
 ## Tools Used
 - Python Libraries: Pandas, Scikit-learn, Matplotlib, Streamlit, Plotly.
-- Repository:- **Repository**: 
- <a href="https://your-streamlit-app-url.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Open_in_New_Tab-blue?style=flat-square&logo=streamlit" alt="Streamlit Dashboard">
-  </a>
-- Dashboard: [Streamlit App Link](#)
-- Dataset: [(https://img.shields.io/badge/Source-007bff?style=for-the-badge&logo=appveyor)](https://drive.google.com/file/d/1w4-KpYewybTSRncCyEKByz9L_ebEzitc/view?usp=sharing)
+
+## Resources
+
+- **Report**: 
+  [Link](https://example.com/report)
+  
+- **Dashboard**: 
+  [Link](https://your-streamlit-app-url.herokuapp.com/)
+  
+- **Dataset**: 
+  [Link](https://example.com/dataset)
+  
+- **Data Source**: 
+  [Link](https://example.com/data-source)
+  
+- **Tutorial Explanation**: 
+  [Link](https://example.com/tutorial))
 
 ## Future Work
 - Incorporate climate data, geopolitical indices, or sector-specific metrics.
