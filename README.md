@@ -23,14 +23,14 @@ This project analyzes historical economic data (1972–2022) and forecasts GDP g
 ## Resources
 
 - **Report**: 
-  [Link]([https://example.com/report](http://127.0.0.1:5500/uploads/Final%20Report.pdf))
+  [Link](http://127.0.0.1:5500/uploads/Final%20Report.pdf)
   
 - **Dashboard**: 
-  [Link]([https://your-streamlit-app-url.herokuapp.com/](https://g7-vs-brics-q6rli72jrpgndzfyfsfnwc.streamlit.app/))
+  [Link](https://g7-vs-brics-q6rli72jrpgndzfyfsfnwc.streamlit.app/)
   
 - **Dataset**: 
-  [Link]([https://example.com/dataset](https://drive.google.com/file/d/1w4-KpYewybTSRncCyEKByz9L_ebEzitc/view?usp=sharing))
-  
+  [Link](https://drive.google.com/file/d/1w4-KpYewybTSRncCyEKByz9L_ebEzitc/view?usp=sharing)
+
 - **Data Source**: 
   [Link](https://example.com/data-source)
   
