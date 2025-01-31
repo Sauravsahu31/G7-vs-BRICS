@@ -1,0 +1,57 @@
+Country Name,Country Code,Parameters,Year,Value,Country Group
+Japan,JPN,GDP per capita growth (annual %),1972,6.91,G7
+Canada,CAN,GDP per capita growth (annual %),1982,-4.31,G7
+Canada,CAN,GDP per capita growth (annual %),1991,-3.3,G7
+United States,USA,GDP per capita growth (annual %),2009,-3.43,G7
+United Kingdom,GBR,GDP per capita growth (annual %),2009,-5.33,G7
+Italy,ITA,GDP per capita growth (annual %),2009,-5.71,G7
+Canada,CAN,GDP per capita growth (annual %),2009,-4.02,G7
+Japan,JPN,GDP per capita growth (annual %),2009,-5.68,G7
+France,FRA,GDP per capita growth (annual %),2009,-3.37,G7
+Germany,DEU,GDP per capita growth (annual %),2009,-5.45,G7
+Italy,ITA,GDP per capita growth (annual %),2012,-3.24,G7
+Italy,ITA,GDP per capita growth (annual %),2013,-2.97,G7
+United States,USA,GDP per capita growth (annual %),2020,-3.16,G7
+United Kingdom,GBR,GDP per capita growth (annual %),2020,-10.69,G7
+Italy,ITA,GDP per capita growth (annual %),2020,-8.53,G7
+Canada,CAN,GDP per capita growth (annual %),2020,-6.06,G7
+Japan,JPN,GDP per capita growth (annual %),2020,-3.86,G7
+France,FRA,GDP per capita growth (annual %),2020,-7.79,G7
+Germany,DEU,GDP per capita growth (annual %),2020,-3.91,G7
+United Kingdom,GBR,GDP per capita growth (annual %),2021,8.76,G7
+Italy,ITA,GDP per capita growth (annual %),2021,8.87,G7
+Japan,JPN,Gross savings (% of GDP),1996,33.43,G7
+Japan,JPN,Gross savings (% of GDP),1997,33.21,G7
+Japan,JPN,Gross savings (% of GDP),1998,32.35,G7
+Japan,JPN,"Inflation, consumer prices (annual %)",1973,11.61,G7
+United States,USA,"Inflation, consumer prices (annual %)",1974,11.05,G7
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",1974,16.04,G7
+Italy,ITA,"Inflation, consumer prices (annual %)",1974,19.16,G7
+Canada,CAN,"Inflation, consumer prices (annual %)",1974,11.0,G7
+Japan,JPN,"Inflation, consumer prices (annual %)",1974,23.22,G7
+France,FRA,"Inflation, consumer prices (annual %)",1974,13.65,G7
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",1975,24.21,G7
+Italy,ITA,"Inflation, consumer prices (annual %)",1975,16.95,G7
+Japan,JPN,"Inflation, consumer prices (annual %)",1975,11.73,G7
+France,FRA,"Inflation, consumer prices (annual %)",1975,11.69,G7
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",1976,16.56,G7
+Italy,ITA,"Inflation, consumer prices (annual %)",1976,16.61,G7
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",1977,15.84,G7
+Italy,ITA,"Inflation, consumer prices (annual %)",1977,17.13,G7
+Italy,ITA,"Inflation, consumer prices (annual %)",1978,12.09,G7
+United States,USA,"Inflation, consumer prices (annual %)",1979,11.25,G7
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",1979,13.42,G7
+Italy,ITA,"Inflation, consumer prices (annual %)",1979,14.8,G7
+United States,USA,"Inflation, consumer prices (annual %)",1980,13.55,G7
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",1980,17.97,G7
+Italy,ITA,"Inflation, consumer prices (annual %)",1980,21.06,G7
+France,FRA,"Inflation, consumer prices (annual %)",1980,13.56,G7
+United Kingdom,GBR,"Inflation, consumer prices (annual %)",1981,11.88,G7
+Italy,ITA,"Inflation, consumer prices (annual %)",1981,17.97,G7
+Canada,CAN,"Inflation, consumer prices (annual %)",1981,12.47,G7
+France,FRA,"Inflation, consumer prices (annual %)",1981,13.31,G7
+Italy,ITA,"Inflation, consumer prices (annual %)",1982,16.48,G7
+France,FRA,"Inflation, consumer prices (annual %)",1982,11.98,G7
+Italy,ITA,"Inflation, consumer prices (annual %)",1983,14.65,G7
+Germany,DEU,Population growth (annual %),2011,-1.85,G7
+Italy,ITA,Population growth (annual %),2019,-1.15,G7
