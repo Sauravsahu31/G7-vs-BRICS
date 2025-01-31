@@ -19,7 +19,10 @@ This project analyzes historical economic data (1972–2022) and forecasts GDP g
 
 ## Tools Used
 - Python Libraries: Pandas, Scikit-learn, Matplotlib, Streamlit, Plotly.
-- Repository: [GitHub Link](#)
+- Repository:- **Repository**: 
+  <a href="https://github.com/yourusername/your-repo" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repository">
+  </a>
 - Dashboard: [Streamlit App Link](#)
 - Dataset: [(https://img.shields.io/badge/Source-007bff?style=for-the-badge&logo=appveyor)](https://drive.google.com/file/d/1w4-KpYewybTSRncCyEKByz9L_ebEzitc/view?usp=sharing)
 
