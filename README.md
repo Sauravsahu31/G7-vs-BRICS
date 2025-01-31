@@ -29,7 +29,7 @@ This project analyzes historical economic data (1972–2022) and forecasts GDP g
   <a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">Link</a>
   
 - **Tutorial**: 
-  <a href="http://127.0.0.1:5500/uploads/Videos/G7%20VS%20BRICS.mp4" target="_blank">Link</a>
+  <a href="https://drive.google.com/file/d/19OyKKWIpSwg2okV-K3E0TGYLJrFpjPAG/view?usp=sharing">Link</a>
 
 ## Future Work
 - Incorporate climate data, geopolitical indices, or sector-specific metrics.
