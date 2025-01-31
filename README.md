@@ -21,15 +21,15 @@ This project analyzes historical economic data (1972–2022) and forecasts GDP g
 - Python Libraries: Pandas, Scikit-learn, Matplotlib, Streamlit, Plotly.
 
 ## Resources
-  
+
 - **Dashboard**: 
-  [Link](https://g7-vs-brics-q6rli72jrpgndzfyfsfnwc.streamlit.app/)
+  <a href="https://g7-vs-brics-q6rli72jrpgndzfyfsfnwc.streamlit.app/" target="_blank">Link</a>
   
 - **Data Source**: 
-  [Link](https://example.com/data-source)
+  <a href="https://databank.worldbank.org/source/world-development-indicators" target="_blank">Link</a>
   
-- **Tutorial Explanation**: 
-<a href="https://example.com/tutorial" target="_blank">Link</a>
+- **Tutorial**: 
+  <a href="http://127.0.0.1:5500/uploads/Videos/G7%20VS%20BRICS.mp4" target="_blank">Link</a>
 
 ## Future Work
 - Incorporate climate data, geopolitical indices, or sector-specific metrics.
